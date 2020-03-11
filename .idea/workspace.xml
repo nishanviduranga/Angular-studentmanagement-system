@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9740863e-daf2-4dcb-84b7-f68ff2866592" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/site/src/app/config/api-service-config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/app/model/Student.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/app/model/User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/assets/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/assets/images/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/assets/images/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/assets/images/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/assets/images/nn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Angular-project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/site" />
+  </component>
+  <component name="ProjectId" id="1XHfAhXHqrivBnOZRyZbMsS9zAQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/site/src/assets/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/site/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/src/app/component" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/site/src/assets/images" />
+      <recent name="$PROJECT_DIR$/site/src/app/Component/img" />
+      <recent name="$PROJECT_DIR$/Project/src/assets/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9740863e-daf2-4dcb-84b7-f68ff2866592" name="Default Changelist" comment="" />
+      <created>1580707799702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580707799702</updated>
+      <workItem from="1580707803930" duration="14483000" />
+      <workItem from="1581065220326" duration="3289000" />
+      <workItem from="1581303036677" duration="20749000" />
+      <workItem from="1581391603684" duration="6753000" />
+      <workItem from="1581486488146" duration="702000" />
+      <workItem from="1581671092078" duration="907000" />
+      <workItem from="1581916721761" duration="11117000" />
+      <workItem from="1582272096235" duration="1947000" />
+      <workItem from="1582274389854" duration="10020000" />
+      <workItem from="1582509931631" duration="12651000" />
+      <workItem from="1582598604722" duration="3208000" />
+      <workItem from="1582685057668" duration="598000" />
+      <workItem from="1582784527532" duration="1132000" />
+      <workItem from="1582859853936" duration="27717000" />
+      <workItem from="1583118916698" duration="15548000" />
+      <workItem from="1583202093792" duration="589000" />
+      <workItem from="1583214122843" duration="13931000" />
+      <workItem from="1583288148541" duration="21934000" />
+      <workItem from="1583374632544" duration="6193000" />
+      <workItem from="1583382456079" duration="4147000" />
+      <workItem from="1583809078908" duration="12346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="39" width="800" height="729" key="#Intentions" timestamp="1581926920032">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="39" width="800" height="729" key="#Intentions/67.27.1299.741@67.27.1299.741" timestamp="1581926920032" />
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581304353254">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1581304353254" />
+    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1583290260146">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1583290260146" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583305833257">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1583305833257" />
+    <state x="451" y="252" width="520" height="288" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582866442721">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="451" y="252" width="520" height="288" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1582866442721" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583302127138">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583302127138" />
+    <state x="442" y="109" width="538" height="575" key="RollbackChangesDialog" timestamp="1581312184380">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="442" y="109" width="538" height="575" key="RollbackChangesDialog/67.27.1299.741@67.27.1299.741" timestamp="1581312184380" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1583117666106">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1583117666106" />
+    <state x="484" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581312146243">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="484" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1581312146243" />
+    <state x="433" y="27" width="556" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1583127717114">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="433" y="27" width="556" height="741" key="refactoring.ChangeSignatureDialog/67.27.1299.741@67.27.1299.741" timestamp="1583127717114" />
+    <state x="307" y="58" width="800" height="677" key="scopes" timestamp="1582283673306">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="307" y="58" width="800" height="677" key="scopes/67.27.1299.741@67.27.1299.741" timestamp="1582283673306" />
+  </component>
+</project>
